@@ -14,6 +14,8 @@
 
 @property (nonatomic, copy) NSString *test1122;
 
+@property (nonatomic, assign) NSInteger num;
+
 @end
 
 @implementation ViewController
